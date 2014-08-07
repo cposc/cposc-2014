@@ -2,7 +2,7 @@
 
 Anything related to Open Source projects, software and community is fair game. Good examples of subjects to choose from include: coding/development, operating systems, project management, networking, web technologies, administration, databases.
 
-You can check out the [CPOSC 2008](http://wiki.cposc.org/cposc2008), [CPOSC 2009](http://wiki.cposc.org/cposc2009), [CPOSC 2010](http://wiki.cposc.org/cposc2010) and [CPOSC 2012](http://wiki.cposc.org/cposc2012 "CPOSC 2012") talks on the wiki.
+You can check out the [CPOSC 2008](http://wiki.cposc.org/cposc2008), [CPOSC 2009](http://wiki.cposc.org/cposc2009), [CPOSC 2010](http://wiki.cposc.org/cposc2010), [CPOSC 2012](http://wiki.cposc.org/cposc2012 "CPOSC 2012") and [CPOSC 2013](https://github.com/cposc/2013 "CPOSC 2013") talks on the wiki.
 
 If you have an idea, but you're not sure if it would fit, just email us!
 
