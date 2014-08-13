@@ -1,3 +1,3 @@
-- [ ] Do stuff
+- [x] Do stuff
 - [ ] Do more stuff
 - [ ] Hey now!
