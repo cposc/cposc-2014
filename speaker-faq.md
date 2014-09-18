@@ -34,7 +34,7 @@ No problem! Contact us, and we’ll arrange a machine for your use.
 
 **How long is my time slot?**
 
-We are still working on the exact schedule, but sessions will be about 45 minutes long. It’s your talk, and you can use the time however you’d like. We do encourage interactivity with the audience, so allowing 10-15 minutes of Q&A is recommended. But you make the call as best suits your topic.
+We are still working on the exact schedule, but sessions will be about 30 minutes long. It’s your talk, and you can use the time however you’d like. There is a 25-minute "hallway track" between sessions which can be used for follow-up Q&A for your talk ot just general interaction with the attendees.
 
 **How much time to I have to prepare and set up?**
 
