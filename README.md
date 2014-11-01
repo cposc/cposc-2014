@@ -10,3 +10,4 @@ Central PA Open Source Conference: 2014 Edition
 ## Lightning Talks
 
 * [Ten Tips to Create a Toxic Culture](https://speakerdeck.com/sethvargo/ten-tips-to-create-a-toxic-culture)
+* [Google Authenticator for SSH](https://github.com/cposc/cposc-2014/blob/master/slides/GoogleAuthSSH.pdf)
