@@ -7,6 +7,7 @@ Central PA Open Source Conference: 2014 Edition
 
 * [Open Design Thinking](http://slides.com/azraelgroup/deck#/)
 * [DevOps is Cool for Schools](https://t.co/Wm1iwnrgAs)
+* [Home automation with openHAB](http://bob.igo.name/?p=271)
 
 ## Lightning Talks
 
@@ -15,3 +16,5 @@ Central PA Open Source Conference: 2014 Edition
 
 ## Open Source Projects
 * [DevOps is Cool for Schools - FLDT](http://github.com/tomswartz07/FLDT)
+* [Home automation with openHAB - openHAB](http://www.openhab.org)
+* [Freesound](https://www.freesound.org/)
