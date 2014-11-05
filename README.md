@@ -8,6 +8,7 @@ Central PA Open Source Conference: 2014 Edition
 * [Open Design Thinking](http://slides.com/azraelgroup/deck#/)
 * [DevOps is Cool for Schools](https://t.co/Wm1iwnrgAs)
 * [Home automation with openHAB](http://bob.igo.name/?p=271)
+* [Taming jQuery Selectors with React](https://speakerdeck.com/scarpenter/taming-jquery-selectors-with-react)
 
 ## Lightning Talks
 
